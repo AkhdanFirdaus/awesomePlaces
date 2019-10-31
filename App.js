@@ -8,8 +8,8 @@ const App = () => {
       <Text>Ini halaman awal</Text>
       <Icon name="ios-trash" size={50} />
     </View>
-  );
-};
+  )
+}
 
 const styles = StyleSheet.create({
   body: {
